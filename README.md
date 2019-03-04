@@ -5,5 +5,5 @@
 1. в свойствах конфигурации > C/C++ > Общие > Дополнительные каталоги включаемых файлов > указать папку include
 2. в свойствах конфигурации > Компоновщик > Общие > Дополнительные  каталоги библиотек > указать папку lib
 
-![][logo]
-[logo]: Checkers/Стартовый экран.PNG
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![Image alt](https://github.com/{LoysoPandohva}/{Checkers}/raw/image.png)
