@@ -6,4 +6,4 @@
 2. в свойствах конфигурации > Компоновщик > Общие > Дополнительные  каталоги библиотек > указать папку lib
 
 ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
-![Image alt](https://github.com/{LoysoPandohva}/{Checkers}/raw/image.png)
+![Image alt](https://github.com/{LoysoPandohva}/{Checkers}/raw/Стартовый экран.PNG)
